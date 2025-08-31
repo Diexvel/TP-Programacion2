@@ -1,0 +1,7 @@
+# Ignorar carpetas de NetBeans
+**/nbproject/private/
+**/build/
+**/dist/
+
+# Archivos compilados
+*.class
